@@ -1,0 +1,9 @@
+*.out
+*.o
+*.i
+*.so
+*.log
+*.bin
+*.bci
+*.com
+
