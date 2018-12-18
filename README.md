@@ -6,3 +6,5 @@
 
 [answers](https://sicp.readthedocs.io/en/latest/)
 
+[chinese edition error](http://www.math.pku.edu.cn/teachers/qiuzy/books/sicp/errata.htm)
+
